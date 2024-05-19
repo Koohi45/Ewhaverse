@@ -7,7 +7,7 @@
 > 공간의 제약 없이도 보다 현실감 있는 소통을 바탕으로 모임・행사 등 다양한 소셜 활동을 통합적으로 지원하는 플랫폼 서비스
 
 ### 시연 영상
-https://www.youtube.com/watch?v=CpDkAVvfMjM
+https://drive.google.com/file/d/1iRsjoWfO6JoPF8vO7TIWaJVedLmCb8T4/view?usp=drive_link
 
 ### 주요 기능
 * 학교 인증을 바탕으로 가입
